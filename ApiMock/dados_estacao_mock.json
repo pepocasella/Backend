@@ -1,0 +1,1802 @@
+{ "data":[
+  {
+    "timestamp": "2025-01-01T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.5
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 40.1
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.9
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1014.86
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-01T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 29.7
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 60.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1013.99
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-01T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 23.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.7
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 54.9
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.0
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1012.36
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-01T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.2
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 40.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1010.2
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-01T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 29.9
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.2
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 69.4
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 26.0
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1007.28
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-02T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.1
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.9
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 69.6
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1009.66
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-02T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 26.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 40.1
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.9
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1003.12
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-02T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 24.2
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.1
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 44.2
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1000.56
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-02T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 26.2
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 26.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 53.1
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 22.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1003.39
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-02T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 24.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 26.1
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 59.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.6
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1008.32
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-03T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.2
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 68.7
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1015.05
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-03T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.1
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 65.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1015.64
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-03T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 21.2
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 49.4
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1005.65
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-03T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 30.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.8
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 54.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 22.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1017.51
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-03T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.7
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.6
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 56.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 22.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1015.36
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-04T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.6
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 62.8
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1008.41
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-04T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.8
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 46.6
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1011.66
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-04T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 20.7
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.5
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 64.9
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.6
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1002.1
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-04T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.9
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.2
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 64.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1004.31
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-04T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.8
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 51.4
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.0
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1006.91
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-05T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 23.8
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.6
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 69.8
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 26.0
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1007.93
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-05T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 26.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 29.1
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 58.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1004.57
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-05T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 22.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 67.2
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1010.35
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-05T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 21.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 55.1
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1002.61
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-05T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.2
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.6
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 40.6
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1004.17
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-06T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 23.1
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.2
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 67.4
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1009.08
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-06T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.5
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.8
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 59.1
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1000.72
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-06T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 29.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 29.8
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 43.8
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1014.24
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-06T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.2
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.3
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 42.8
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.4
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1018.52
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-06T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.5
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.9
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 51.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.4
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1000.77
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-07T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 28.8
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 69.5
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1012.04
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-07T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 29.8
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 26.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 41.2
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.0
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1019.31
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-07T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 21.4
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.6
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 52.5
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 22.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1006.15
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-07T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 28.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.9
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 67.9
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1019.51
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-07T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 26.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 52.7
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.8
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1019.51
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-08T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 29.1
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.3
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 43.7
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1005.88
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-08T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.3
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 56.9
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 29.6
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1003.5
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-08T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 25.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 44.5
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1005.76
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-08T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 26.1
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 49.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.1
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1006.51
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-08T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 30.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 22.9
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 41.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.1
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1018.23
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-09T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 21.9
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.3
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 62.9
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1002.64
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-09T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 67.9
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1006.4
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-09T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.2
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 43.7
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.1
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1012.16
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-09T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 23.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.9
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 49.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.4
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1016.54
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-09T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 24.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.8
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 57.2
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1018.92
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-10T00:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.3
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 25.7
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 44.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.7
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1018.0
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-10T04:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 21.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.1
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 44.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 23.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1009.46
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-10T08:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 22.7
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.4
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 57.0
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 20.0
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1002.69
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-10T12:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 27.6
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 27.0
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 51.2
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 21.3
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1000.99
+        }
+      }
+    }
+  },
+  {
+    "timestamp": "2025-01-10T16:00:00",
+    "estacao_id": "ESP8266_01",
+    "sensores": {
+      "LM35": {
+        "id": "LM35_01",
+        "tipo": "temperatura",
+        "unidade": "\u00b0C",
+        "valor": 26.0
+      },
+      "DHT11": {
+        "id": "DHT11_01",
+        "tipo": "temperatura_umidade",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 28.6
+        },
+        "umidade": {
+          "unidade": "%",
+          "valor": 64.3
+        }
+      },
+      "BMP280": {
+        "id": "BMP280_01",
+        "tipo": "pressao_temperatura",
+        "temperatura": {
+          "unidade": "\u00b0C",
+          "valor": 24.2
+        },
+        "pressao": {
+          "unidade": "hPa",
+          "valor": 1019.39
+        }
+      }
+    }
+  }
+]}

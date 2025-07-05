@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025-07-05T11:00:00-03:00",
+  "estacao_id": "ESP8266_01",
+  "sensores": {
+    "LM35": {
+      "id": "LM35_01",
+      "tipo": "temperatura",
+      "unidade": "°C",
+      "valor": 27.4
+    },
+    "DHT11": {
+      "id": "DHT11_01",
+      "tipo": "temperatura_umidade",
+      "temperatura": {
+        "unidade": "°C",
+        "valor": 28.1
+      },
+      "umidade": {
+        "unidade": "%",
+        "valor": 65.3
+      }
+    },
+    "BMP280": {
+      "id": "BMP280_01",
+      "tipo": "pressao_temperatura",
+      "temperatura": {
+        "unidade": "°C",
+        "valor": 26.7
+      },
+      "pressao": {
+        "unidade": "hPa",
+        "valor": 1013.25
+      }
+    }
+  }
+}
