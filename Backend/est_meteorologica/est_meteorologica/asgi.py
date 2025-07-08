@@ -1,5 +1,5 @@
 """
-ASGI config for produtos project.
+ASGI config for est_meteorologica project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'produtos.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'est_meteorologica.settings')
 
 application = get_asgi_application()

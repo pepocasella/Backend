@@ -8,7 +8,7 @@ const char* ssid = "Casella";
 const char* password = "casellaadmin";
 
 // ======== CONFIG API ===========
-const char* serverName = "http://SEU_ENDPOINT_DJANGO_NINJA/api/sensores/";
+const char* serverName = "http://192.168.1.104:8000/api/dados/";
 
 // ======== CONFIG SENSORES ======
 #define DHTPIN 4  // GPIO4 = D2 no NodeMCU
@@ -58,8 +58,8 @@ void loop() {
 
     String timestamp = getISOTime();
 
-    // Montar JSON
     String json = "{";
+    json += "\"payload\":{";
     json += "\"timestamp\":\"" + timestamp + "\",";
     json += "\"estacao_id\":\"ESP8266_01\",";
     json += "\"sensores\":{";
@@ -69,7 +69,7 @@ void loop() {
     json += "\"tipo\":\"temperatura\",";
     json += "\"unidade\":\"°C\",";
     json += "\"valor\":" + String(tempLM35, 2);
-    json += "},";
+    json += "},";  // <- VÍRGULA ENTRE OBJETOS
 
     json += "\"DHT11\":{";
     json += "\"id\":\"DHT11_01\",";
@@ -82,18 +82,20 @@ void loop() {
     json += "\"unidade\":\"%\",";
     json += "\"valor\":" + String(umidade, 2);
     json += "}";
-    json += "}";
+    json += "}";  // fecha DHT11
 
-    json += "}}";
+    json += "}}}";   // <- fecha sensores, payload
+
 
     // Print JSON
     Serial.println("======= JSON ENVIADO =======");
     Serial.println(json);
 
     // Enviar para API
+    WiFiClient client;
     HTTPClient http;
-    // http.begin(serverName);
-    // http.addHeader("Content-Type", "application/json");
+    http.begin(client, serverName);
+    http.addHeader("Content-Type", "application/json");
 
     int httpCode = http.POST(json);
     Serial.print("HTTP Status: ");
@@ -111,5 +113,5 @@ void loop() {
     WiFi.begin(ssid, password);
   }
 
-  delay(1000);
+  delay(5000);
 }
