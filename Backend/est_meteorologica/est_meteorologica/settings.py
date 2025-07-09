@@ -31,12 +31,17 @@ ALLOWED_HOSTS = ['192.168.1.104', 'localhost', '127.0.0.1']
 # Application definition
 
 INSTALLED_APPS = [
+    # Apps do Django
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+    # Meus apps
+    'est_accounts',
+    'est_sensores',
 ]
 
 MIDDLEWARE = [
@@ -67,6 +72,8 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'est_meteorologica.wsgi.application'
+
+AUTH_USER_MODEL = 'est_accounts.User'
 
 
 # Database
