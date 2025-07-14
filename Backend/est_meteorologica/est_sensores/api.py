@@ -8,7 +8,7 @@ router = Router(tags=["Sensores"])
 
 @router.post("{estacao_id}/leituras/")
 def receber_leituras(request, estacao_id: str, dados: LeituraBatchInput):
-    estacao = get_object_or_404(Estacao, identificador=estacao_id)
+    estacao = get_object_or_404(Estacao, nome=estacao_id)
     
     sensores = [
         Sensor(
