@@ -1,6 +1,7 @@
 from ninja import NinjaAPI
 from .schemas import DadosEstacaoInput
 from est_sensores.api import router as sensores_router
+from est_sensores.estacao_api import router as estacao_router
 
 
 api = NinjaAPI()
@@ -17,3 +18,4 @@ def receber_dados(request, dados: DadosEstacaoInput):
 
 
 api.add_router("/sensores/", sensores_router)
+api.add_router("/estacoes/", estacao_router)
